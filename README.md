@@ -1,4 +1,4 @@
-**Constructing $(h,k+1)$ cooperative MSR codes with sub-packetization $(h+1)2^{n/2}$**
+**Constructing $(h,k+1)$ cooperative MSR codes with sub-packetization $(h+1)2^{\lceil n/2 \rceil}$**
 
 `Authors:` Zihao Zhang, Guodong Li, Sihuang Hu
 
